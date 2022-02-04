@@ -1,0 +1,137 @@
+
+<!DOCTYPE html>
+<html>
+
+<head>
+    <script>
+        var addlink = document.getElementById('id01');
+ 
+        window.onclick = function(event) {
+            if (event.target == addlink) {
+                addlink.style.display = "none";
+            }
+        }
+
+        function enterindb(){
+            console.log('Pressed')
+        }
+
+    </script>
+
+</head>
+<style>
+    /*add full-width input fields*/
+    input[type=text],
+    input[type=link] {
+        width: 100%;
+        padding: 12px 20px;
+        margin: 8px 0;
+        display: inline-block;
+        border: 2px solid #ccc;
+        box-sizing: border-box;
+    }
+    /* set a style for all buttons*/
+    button {
+        background-color: rgba(10, 76, 131, 0.815);
+        color: white;
+        padding: 14px 20px;
+        margin: 8px 0;
+        cursor: pointer;
+        width: 100%;
+        border-radius: 90%;
+
+    }
+    /*float cancel and signup buttons and add an equal width*/
+    .submitbtn {
+        float: left;
+        width: 50%;
+        border-radius: 5%;
+    }
+    /*add padding to container elements*/
+    .container {
+        padding: 16px;
+    }
+    /*define the modal’s background*/
+     
+    .addlink {
+        display: none;
+        position: fixed;
+        z-index: 1;
+        left: 0;
+        top: 0;
+        width: 100%;
+        height: 100%;
+        overflow: auto;
+        background-color: rgb(0, 0, 0);
+        background-color: rgba(0, 0, 0, 0.4);
+        padding-top: 60px;
+    }
+    /*define the modal-content background*/
+     
+    .addlink-content {
+        background-color: #fefefe;
+        margin: 5% auto 15% auto;
+        border: 1px solid #888;
+        width: 80%;
+    }
+    /*define the close button*/
+     
+    .close {
+        position: absolute;
+        right: 35px;
+        top: 15px;
+        color: #000;
+        font-size: 40px;
+        font-weight: bold;
+    }
+    /*define the close hover and focus effects*/
+     
+    .close:hover,
+    .close:focus {
+        color: red;
+        cursor: pointer;
+    }
+     
+    .clearfix::after {
+        content: "";
+        clear: both;
+        display: table;
+    }
+     
+    @media screen and (max-width: 300px) {
+        .submitbtn {
+            width: 100%;
+        }
+    }
+</style>
+ 
+<body>
+ 
+    <h2>Add Your Products </h2>
+    <!--Step 1:Adding HTML-->
+    <button onclick="document.getElementById('id01').style.display='block'" style="width:auto;">Add</button>
+ 
+    <div id="id01" class="addlink">
+        <span onclick="document.getElementById('id01').style.display='none'" class="close" title="Close addlink">×</span>
+        <form class="addlink-content animate">
+            <div class="container">
+                <label><b>Amazon Product </b></label>
+                <input type="text" placeholder="Add Amazon Link" name="Amazon Product" required>
+ 
+                <label><b>Flipkart Product</b></label>
+                <input type="link" placeholder="Add Flipkart Link" name="Flipkart Product" required>
+ 
+                <div class="clearfix">
+                   
+                    <button type="submit" onclick = enterindb() class="submitbtn"> Add Product</button>
+                </div>
+            </div>
+        </form>
+    </div>
+ 
+    <!--close the addlink by just clicking outside of the addlink-->
+    
+ 
+</body>
+ 
+</html>
