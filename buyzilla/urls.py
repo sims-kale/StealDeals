@@ -21,5 +21,5 @@ urlpatterns = [
     path('admin/', admin.site.urls),
     path('home/', views.index, name='index'),
     path('', views.index, name='index'),
-    path('next/', views.webscrape, name='next'),
+    path('webscrape/', views.webscrape, name='webscrape'),
 ]
