@@ -609,4 +609,992 @@ DevTools listening on ws://localhost:58672/devtools/browser/1173389a-fad9-4263-8
 1644424178935	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
 JavaScript warning: https://www.amazon.in/Melomane-Melophone1644424186060	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58756" "-no-remote" "-profile" "C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofileSFZ7aG"
 1644424186375	Marionette	INFO	Marionette enabled
-console.warn: SearchSettings: "get: No settings file exists, new prof
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofileSFZ7aG\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58756/devtools/browser/0093729e-9c9c-4704-b060-a6a79de6cb26
+1644424188750	Marionette	INFO	Listening on port 58763
+1644424189199	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1644427223750	geckodriver	INFO	Listening on 127.0.0.1:65312
+1644427226826	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65313" "-no-remote" "-profile" "C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofileRF3pCa"
+1644427227613	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofileRF3pCa\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65313/devtools/browser/b328da26-2fae-42fb-8b4e-d5f8d5434f88
+1644427230924	Marionette	INFO	Listening on port 65318
+1644427231047	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.amazon.in/Melomane-Melophones-Headphone-Power-Packed-Ergonomic/dp/B08PZ7KF2H/?_encoding=UTF8&pd_rd_w=FD54X&pf_rd_p=af3269f8-dfce-4b62-bd10-bf6b79632555&pf_rd_r=R8CZ6MA8X4V93BCFMH8F&pd_rd_r=ab8dce6d-28cb-47fd-9ed0-b04af5a051cb&pd_rd_wg=iArZu&ref_=pd_gw_unk&th=1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1644427234719	geckodriver	INFO	Listening on 127.0.0.1:65390
+1644427237796	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65391" "-no-remote" "-profile" "C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofile3pMCnj"
+1644427238193	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofile3pMCnj\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65391/devtools/browser/e8e8f59f-f0f3-4475-8915-8b0e84373a79
+1644427241035	Marionette	INFO	Listening on port 65459
+1644427241454	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1644427295214	geckodriver	INFO	Listening on 127.0.0.1:49186
+1644427298279	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49187" "-no-remote" "-profile" "C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofilef1NRx4"
+1644427298772	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofilef1NRx4\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49187/devtools/browser/a0aafa3c-0709-47e0-81ab-16819be7ebd9
+1644427301576	Marionette	INFO	Listening on port 49192
+1644427301973	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.amazon.in/Melomane-Melophone1644427307502	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49251" "-no-remote" "-profile" "C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofilesX3GUz"
+1644427308023	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofilesX3GUz\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49251/devtools/browser/8f0b717f-5468-4ed0-a56a-d04dea9d1441
+1644427311106	Marionette	INFO	Listening on port 49265
+1644427311210	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1644427438203	geckodriver	INFO	Listening on 127.0.0.1:49472
+1644427441301	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49473" "-no-remote" "-profile" "C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofileiWNjIM"
+1644427441755	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofileiWNjIM\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49473/devtools/browser/b4a1913d-d1a4-4c9d-9ab8-c582922f8434
+1644427444913	Marionette	INFO	Listening on port 49478
+1644427444982	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.amazon.in/Melomane-Melophone1644427463145	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49551" "-no-remote" "-profile" "C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofileMwUzl1"
+1644427463640	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofileMwUzl1\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49551/devtools/browser/448ea001-d8d2-49a1-88ba-b3b00fb56999
+1644427466726	Marionette	INFO	Listening on port 49557
+1644427466855	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1644427500261	geckodriver	INFO	Listening on 127.0.0.1:49730
+1644427503328	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49731" "-no-remote" "-profile" "C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofileWEblNV"
+1644427503784	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofileWEblNV\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49731/devtools/browser/5cf87012-0a80-49b0-a496-953b08e2cfda
+1644427506928	Marionette	INFO	Listening on port 49736
+1644427507013	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.amazon.in/Melomane-Melophone1644427512608	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49797" "-no-remote" "-profile" "C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofileaS6eEi"
+1644427513263	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofileaS6eEi\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49797/devtools/browser/808bedeb-ba6d-44b7-b693-448421198d6d
+1644427516219	Marionette	INFO	Listening on port 49804
+1644427516289	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1644427544668	geckodriver	INFO	Listening on 127.0.0.1:50008
+1644427547745	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50009" "-no-remote" "-profile" "C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofilepZtnHs"
+1644427548245	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofilepZtnHs\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50009/devtools/browser/94fa2a7b-91f1-480f-97b0-deb390294086
+1644427551422	Marionette	INFO	Listening on port 50014
+1644427551935	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.amazon.in/Melomane-Melophones-Headphone-Power-Packed-Ergonomic/dp/B08PZ7KF2H/?_encoding=UTF8&pd_rd_w=FD54X&pf_rd_p=af3269f8-dfce-4b62-bd10-bf6b79632555&pf_rd_r=R8CZ6MA8X4V93BCFMH8F&pd_rd_r=ab8dce6d-28cb-47fd-9ed0-b04af5a051cb&pd_rd_wg=iArZu&ref_=pd_gw_unk&th=1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1644427555530	geckodriver	INFO	Listening on 127.0.0.1:50087
+1644427558600	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50088" "-no-remote" "-profile" "C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofiledk4exm"
+1644427559043	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofiledk4exm\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50088/devtools/browser/dccd48e1-dbd2-4b92-b6b1-96a04242d011
+1644427561845	Marionette	INFO	Listening on port 50160
+1644427562281	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1644427680451	geckodriver	INFO	Listening on 127.0.0.1:50311
+1644427683543	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50312" "-no-remote" "-profile" "C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofileoDs3e2"
+1644427684066	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofileoDs3e2\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50312/devtools/browser/a56c3a56-7e93-4dc9-befb-1d12a3815468
+1644427686977	Marionette	INFO	Listening on port 50319
+1644427687237	Marionette	INFO	Stopped listening on port 50319
+1644427687292	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1644427711655	geckodriver	INFO	Listening on 127.0.0.1:50381
+1644427714721	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50382" "-no-remote" "-profile" "C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofile9bk5Kv"
+1644427715182	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofile9bk5Kv\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50382/devtools/browser/49c3b214-694c-4f72-b049-5aa5f6de8f45
+1644427718248	Marionette	INFO	Listening on port 50387
+1644427718402	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.amazon.in/Melomane-Melophone1644427779544	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50477" "-no-remote" "-profile" "C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofilepiddE6"
+1644427780034	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofilepiddE6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50477/devtools/browser/8ddeaa79-3a12-4e92-91b2-f28f2588e584
+1644427783492	Marionette	INFO	Listening on port 50487
+1644427783737	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1644427903521	geckodriver	INFO	Listening on 127.0.0.1:50764
+1644427906585	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50765" "-no-remote" "-profile" "C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofileT9qUae"
+1644427907058	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofileT9qUae\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50765/devtools/browser/af001c2e-7927-4906-b3fe-4a8ca9979d0c
+1644427910257	Marionette	INFO	Listening on port 50791
+1644427910771	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.amazon.in/Melomane-Melophone1644427917889	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50921" "-no-remote" "-profile" "C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofilecu9wMY"
+1644427918230	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofilecu9wMY\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50921/devtools/browser/c950dcb1-9324-4b9a-b666-bc693b12f9d4
+1644427920920	Marionette	INFO	Listening on port 51010
+1644427921078	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1644427991408	geckodriver	INFO	Listening on 127.0.0.1:51163
+1644427994498	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51164" "-no-remote" "-profile" "C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofilekJrCzN"
+1644427995011	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofilekJrCzN\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51164/devtools/browser/9f5cf556-d629-4f48-a67f-1ca04138c9c5
+1644427998280	Marionette	INFO	Listening on port 51169
+1644427998721	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.amazon.in/Melomane-Melophones-Headphone-Power-Packed-Ergonomic/dp/B08PZ7KF2H/?_encoding=UTF8&pd_rd_w=FD54X&pf_rd_p=af3269f8-dfce-4b62-bd10-bf6b79632555&pf_rd_r=R8CZ6MA8X4V93BCFMH8F&pd_rd_r=ab8dce6d-28cb-47fd-9ed0-b04af5a051cb&pd_rd_wg=iArZu&ref_=pd_gw_unk&th=1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1644429100613	Marionette	INFO	Stopped listening on port 51169
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofilel5gUxX\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51244/devtools/browser/ed41d0ae-e244-4936-aa96-043775a150b0
+1644428008855	Marionette	INFO	Listening on port 51321
+1644428008886	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1644429102435	Marionette	INFO	Stopped listening on port 51321
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "51527" "-no-remote" "-profile" "C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofileJxXh7a"
+1644428756769	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofileJxXh7a\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51527/devtools/browser/dbf1a88e-3ce7-4eca-92ff-f84f8707f957
+1644428758486	Marionette	INFO	Listening on port 51532
+1644428758565	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.amazon.in/Melomane-Melophones-Headphone-Power-Packed-Ergonomic/dp/B08PZ7KF2H/?_encoding=UTF8&pd_rd_w=FD54X&pf_rd_p=af3269f8-dfce-4b62-bd10-bf6b79632555&pf_rd_r=R8CZ6MA8X4V93BCFMH8F&pd_rd_r=ab8dce6d-28cb-47fd-9ed0-b04af5a051cb&pd_rd_wg=iArZu&ref_=pd_gw_unk&th=1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1644429104183	Marionette	INFO	Stopped listening on port 51532
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofileZMwc86\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51609/devtools/browser/1a3008ce-c6b5-463c-b0cc-d3cab14f4d89
+1644428768197	Marionette	INFO	Listening on port 51687
+1644428768689	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1644429105617	Marionette	INFO	Stopped listening on port 51687
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofileagf1U7\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51988/devtools/browser/36e5331f-5d0f-41a1-91dc-98b4cf4c13ca
+1644429088290	Marionette	INFO	Listening on port 51993
+1644429088752	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.amazon.in/Jabra-Elite-Wireless-Earbuds-Built/dp/B09CGLJBPY/ref=lp_27269058031_1_1?th=1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://127.0.0.1:8000"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://127.0.0.1:8000"
+1644431837902	Marionette	INFO	Stopped listening on port 51993
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 33156, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+ileM8JSDL\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52080/devtools/browser/4f4dbe9d-c67a-4496-bef0-d1e70a54005b
+1644429133934	Marionette	INFO	Listening on port 52162
+1644429134422	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1644431837720	Marionette	INFO	Stopped listening on port 52162
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+onette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofile1msXIf\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59846/devtools/browser/b370f8a9-748e-4f68-ad4a-26684b93df82
+1644429867510	Marionette	INFO	Listening on port 59851
+1644429867531	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.amazon.in/Jabra-Elite-Wirele1644429890850	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59921" "-no-remote" "-profile" "C:\\User1644431838396	Marionette	INFO	Stopped listening on port 59851
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+d 0)))
+DevTools listening on ws://localhost:59921/devtools/browser/f1d3deb2-a9df-4c63-b4e1-86a7713f102e
+1644429893014	Marionette	INFO	Listening on port 60003
+1644429893526	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1644431838343	Marionette	INFO	Stopped listening on port 60003
+[Parent 23984, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel closing: too late to send/recv, messages will be lost
+
+52409566ade3
+1644429911866	Marionette	INFO	Listening on port 60113
+1644429912347	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.amazon.in/Jabra-Elite-Wireless-Earbuds-Built/dp/B09CGLJBPY/ref=lp_27269058031_1_1?th=1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1644431837503	Marionette	INFO	Stopped listening on port 60113
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "60190" "-no-remote" "-profile" "C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofileiG4gHg"
+1644429919173	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofileiG4gHg\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60190/devtools/browser/1dcdc6eb-daee-4d63-b74e-801716c55fbf
+1644429921068	Marionette	INFO	Listening on port 60273
+1644429921570	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1644431837343	Marionette	INFO	Stopped listening on port 60273
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "60574" "-no-remote" "-profile" "C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofileyv8rnd"
+1644430500524	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofileyv8rnd\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60574/devtools/browser/4bd91f33-8bc9-4aef-951b-27dfba05fd01
+1644430502365	Marionette	INFO	Listening on port 60579
+1644430502407	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.amazon.in/Melomane-Melophones-Headphone-Power-Packed-Ergonomic/dp/B08PZ7KF2H/?_encoding=UTF8&pd_rd_w=FD54X&pf_rd_p=af3269f8-dfce-4b62-bd10-bf6b79632555&pf_rd_r=R8CZ6MA8X4V93BCFMH8F&pd_rd_r=ab8dce6d-28cb-47fd-9ed0-b04af5a051cb&pd_rd_wg=iArZu&ref_=pd_gw_unk&th=1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1644431837708	Marionette	INFO	Stopped listening on port 60579
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel closing: too late to send/recv, messages will be lost
+
+d
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofileu9Z8UR\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60641/devtools/browser/3eb7b7e9-cbf4-4133-a6fd-ee3ce49f09fc
+1644430510697	Marionette	INFO	Listening on port 60717
+1644430511084	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1644431837577	Marionette	INFO	Stopped listening on port 60717
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "60056" "-no-remote" "-profile" "C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofile8kOWsp"
+1644430849943	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofile8kOWsp\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60056/devtools/browser/dd56e484-7aca-4bb4-8a14-bd059481ee16
+1644430851797	Marionette	INFO	Listening on port 60062
+1644430851840	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.amazon.in/Jabra-Elite-Wireless-Earbuds-Built/dp/B09CGLJBPY/ref=lp_27269058031_1_1?th=1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1644431837664	Marionette	INFO	Stopped listening on port 60062
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+O	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofile6v4ltm\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60423/devtools/browser/fc8c7326-973f-4338-82cf-71c6ed139f27
+1644431066258	Marionette	INFO	Listening on port 60428
+1644431066763	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.amazon.in/Jabra-Elite-Wireless-Earbuds-Built/dp/B09CGLJBPY/ref=lp_27269058031_1_1?th=1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1644431837343	Marionette	INFO	Stopped listening on port 60428
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel closing: too late to send/recv, messages will be lost
+
+d
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofileExDmPU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60596/devtools/browser/ae60b040-52c3-4753-8d0e-6144b6e1d66a
+1644431223793	Marionette	INFO	Listening on port 60605
+1644431224044	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.amazon.in/Jabra-Elite-Wireless-Earbuds-Built/dp/B09CGLJBPY/ref=lp_27269058031_1_1?th=1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1644431837466	Marionette	INFO	Stopped listening on port 60605
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "60768" "-no-remote" "-profile" "C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofilebMHCYk"
+1644431251813	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofilebMHCYk\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60768/devtools/browser/2cd6a4ea-c871-4e09-b463-fef8d7fb42ae
+1644431254209	Marionette	INFO	Listening on port 60791
+1644431254666	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.amazon.in/Jabra-Elite-Wireless-Earbuds-Built/dp/B09CGLJBPY/ref=lp_27269058031_1_1?th=1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1644431836229	Marionette	INFO	Stopped listening on port 60791
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "60954" "-no-remote" "-profile" "C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofileGyZqug"
+1644431320680	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofileGyZqug\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60954/devtools/browser/cb2e001a-cc33-4349-92a0-1eec21bf63b4
+1644431322801	Marionette	INFO	Listening on port 60959
+1644431323061	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.amazon.in/Jabra-Elite-Wireless-Earbuds-Built/dp/B09CGLJBPY/ref=lp_27269058031_1_1?th=1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1644431835571	Marionette	INFO	Stopped listening on port 60959
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "61146" "-no-remote" "-profile" "C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofileYX1Idh"
+1644431450557	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofileYX1Idh\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61146/devtools/browser/4339f653-3fdb-446c-b93a-d4c76011fda6
+1644431452890	Marionette	INFO	Listening on port 61151
+1644431452945	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.amazon.in/Jabra-Elite-Wireless-Earbuds-Built/dp/B09CGLJBPY/ref=lp_27269058031_1_1?th=1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1644431836051	Marionette	INFO	Stopped listening on port 61151
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "61318" "-no-remote" "-profile" "C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofilet3fOlv"
+1644431547345	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofilet3fOlv\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61318/devtools/browser/c9a5358e-70a7-42da-8bf1-1d92edad053d
+1644431549513	Marionette	INFO	Listening on port 61323
+1644431549720	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.amazon.in/Jabra-Elite-Wireless-Earbuds-Built/dp/B09CGLJBPY/ref=lp_27269058031_1_1?th=1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1644431837541	Marionette	INFO	Stopped listening on port 61323
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "61392" "-no-remote" "-profile" "C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofiletbeTL2"
+1644431556340	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofiletbeTL2\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61392/devtools/browser/e8775d38-7126-420e-bf5a-6ead0715f71c
+1644431558533	Marionette	INFO	Listening on port 61469
+1644431558720	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1644431836797	Marionette	INFO	Stopped listening on port 61469
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 4980, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+4431754567	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofileIO4Qxa\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62073/devtools/browser/f99c08a5-484c-4e5c-95ae-2f0d5dc39b42
+1644431757137	Marionette	INFO	Listening on port 62078
+1644431757175	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.amazon.in/Jabra-Elite-Wireless-Earbuds-Built/dp/B09CGLJBPY/ref=lp_27269058031_1_1?th=1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1644431834887	Marionette	INFO	Stopped listening on port 62078
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofilefCu8Cf\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62137/devtools/browser/722f44ec-232f-4671-9d5c-84e8a2bf5fe3
+1644431766120	Marionette	INFO	Listening on port 62222
+1644431766591	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1644431834810	Marionette	INFO	Stopped listening on port 62222
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1644432028098	geckodriver	INFO	Listening on 127.0.0.1:62376
+1644432031201	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62377" "-no-remote" "-profile" "C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofilec9vEMj"
+1644432031469	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofilec9vEMj\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62377/devtools/browser/ef49b8cf-c044-4be2-a04c-fdc8cd35e7d3
+1644432033338	Marionette	INFO	Listening on port 62382
+1644432033366	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.amazon.in/Melomane-Melophones-Headphone-Power-Packed-Ergonomic/dp/B08PZ7KF2H/?_encoding=UTF8&pd_rd_w=FD54X&pf_rd_p=af3269f8-dfce-4b62-bd10-bf6b79632555&pf_rd_r=R8CZ6MA8X4V93BCFMH8F&pd_rd_r=ab8dce6d-28cb-47fd-9ed0-b04af5a051cb&pd_rd_wg=iArZu&ref_=pd_gw_unk&th=1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1644432036095	geckodriver	INFO	Listening on 127.0.0.1:62439
+1644432039155	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62440" "-no-remote" "-profile" "C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofileM4dgw8"
+1644432039426	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofileM4dgw8\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62440/devtools/browser/fd80ca87-aaa1-4f85-bb34-ff76aec64997
+1644432041287	Marionette	INFO	Listening on port 62519
+1644432041332	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1644432073573	geckodriver	INFO	Listening on 127.0.0.1:62626
+1644432076623	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62627" "-no-remote" "-profile" "C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofileXWQOIp"
+1644432076883	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofileXWQOIp\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62627/devtools/browser/c275491b-42e9-4c36-b4e0-2e41714c6125
+1644432078721	Marionette	INFO	Listening on port 62632
+1644432078789	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.amazon.in/Jabra-Elite-Wireless-Earbuds-Built/dp/B09CGLJBPY/ref=lp_27269058031_1_1?th=1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1644432081733	geckodriver	INFO	Listening on 127.0.0.1:62689
+1644432084798	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62690" "-no-remote" "-profile" "C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofileUk0Lgg"
+1644432085054	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofileUk0Lgg\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62690/devtools/browser/a5956cc9-60d5-4d02-be94-df978c61c28e
+1644432086992	Marionette	INFO	Listening on port 62767
+1644432087469	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1644432137929	geckodriver	INFO	Listening on 127.0.0.1:62882
+1644432140999	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62883" "-no-remote" "-profile" "C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofilev4yJwn"
+1644432141248	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofilev4yJwn\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62883/devtools/browser/c40613ef-20b6-4a6a-9bb5-7f1137d7d3a1
+1644432143089	Marionette	INFO	Listening on port 62890
+1644432143159	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.amazon.in/Melomane-Melophones-Headphone-Power-Packed-Ergonomic/dp/B08PZ7KF2H/?_encoding=UTF8&pd_rd_w=FD54X&pf_rd_p=af3269f8-dfce-4b62-bd10-bf6b79632555&pf_rd_r=R8CZ6MA8X4V93BCFMH8F&pd_rd_r=ab8dce6d-28cb-47fd-9ed0-b04af5a051cb&pd_rd_wg=iArZu&ref_=pd_gw_unk&th=1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1644432145885	geckodriver	INFO	Listening on 127.0.0.1:62949
+1644432148956	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62950" "-no-remote" "-profile" "C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofile8MBZzo"
+1644432149238	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofile8MBZzo\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62950/devtools/browser/16e213cc-8dc3-477f-a2fb-7cabed7b1b71
+1644432151158	Marionette	INFO	Listening on port 63031
+1644432151615	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1644432206707	geckodriver	INFO	Listening on 127.0.0.1:63151
+1644432209780	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63152" "-no-remote" "-profile" "C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofile6e62tQ"
+1644432210035	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofile6e62tQ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63152/devtools/browser/43d0a232-74a6-4c40-8dbf-dd97bdf718aa
+1644432211875	Marionette	INFO	Listening on port 63159
+1644432211936	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.amazon.in/Jabra-Elite-Wireless-Earbuds-Built/dp/B09CGLJBPY/ref=lp_27269058031_1_1?th=1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1644432214627	geckodriver	INFO	Listening on 127.0.0.1:63224
+1644432217715	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63225" "-no-remote" "-profile" "C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofile1gAld5"
+1644432217995	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofile1gAld5\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63225/devtools/browser/c4e505ef-94ab-465f-be50-01fbc2483cfc
+1644432219967	Marionette	INFO	Listening on port 63300
+1644432220380	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1644432397653	geckodriver	INFO	Listening on 127.0.0.1:63432
+1644432400744	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63433" "-no-remote" "-profile" "C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofile2k6ZmZ"
+1644432400999	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofile2k6ZmZ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63433/devtools/browser/ad7d4243-c1ed-4ef6-ad5e-9353430540ab
+1644432403005	Marionette	INFO	Listening on port 63439
+1644432403426	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.amazon.in/Melomane-Melophones-Headphone-Power-Packed-Ergonomic/dp/B08PZ7KF2H/?_encoding=UTF8&pd_rd_w=FD54X&pf_rd_p=af3269f8-dfce-4b62-bd10-bf6b79632555&pf_rd_r=R8CZ6MA8X4V93BCFMH8F&pd_rd_r=ab8dce6d-28cb-47fd-9ed0-b04af5a051cb&pd_rd_wg=iArZu&ref_=pd_gw_unk&th=1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1644432406283	geckodriver	INFO	Listening on 127.0.0.1:63500
+1644432409340	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63501" "-no-remote" "-profile" "C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofile0sG1La"
+1644432409667	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofile0sG1La\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63501/devtools/browser/f9061980-f6d1-4e5d-b252-42f3834698a6
+1644432411590	Marionette	INFO	Listening on port 63569
+1644432412011	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+remote-debugging-port" "63678" "-no-remote" "-profile" "C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofilehSUx2l"
+1644432419147	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofilehSUx2l\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63678/devtools/browser/6c0370eb-3973-49fd-8772-2be9f1cd6012
+1644432420986	Marionette	INFO	Listening on port 63687
+1644432421065	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.amazon.in/Melomane-Melophones-Headphone-Power-Packed-Ergonomic/dp/B08PZ7KF2H/?_encoding=UTF8&pd_rd_w=FD54X&pf_rd_p=af3269f8-dfce-4b62-bd10-bf6b79632555&pf_rd_r=R8CZ6MA8X4V93BCFMH8F&pd_rd_r=ab8dce6d-28cb-47fd-9ed0-b04af5a051cb&pd_rd_wg=iArZu&ref_=pd_gw_unk&th=1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1644432424449	geckodriver	INFO	Listening on 127.0.0.1:63758
+1644432427505	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63759" "-no-remote" "-profile" "C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofiledTapV5"
+1644432427856	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofiledTapV5\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63759/devtools/browser/12f7d4de-0110-47e7-8f00-413f4294ade4
+1644432430077	Marionette	INFO	Listening on port 63842
+1644432430184	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1644432639556	geckodriver	INFO	Listening on 127.0.0.1:64072
+1644432642598	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64073" "-no-remote" "-profile" "C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofileNVO8zQ"
+1644432642945	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofileNVO8zQ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64073/devtools/browser/d7f5a62e-0a88-4c12-a2f1-1349b4959cb1
+1644432645029	Marionette	INFO	Listening on port 64078
+1644432645262	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.amazon.in/Jabra-Elite-Wireless-Earbuds-Built/dp/B09CGLJBPY/ref=lp_27269058031_1_1?th=1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1644432648848	geckodriver	INFO	Listening on 127.0.0.1:64144
+1644432651903	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64145" "-no-remote" "-profile" "C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofileLbdR0e"
+1644432652181	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofileLbdR0e\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64145/devtools/browser/e09c319b-c3bf-477b-bd43-4587d6640a96
+1644432654162	Marionette	INFO	Listening on port 64221
+1644432654594	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1644432697356	geckodriver	INFO	Listening on 127.0.0.1:64335
+1644432700424	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64336" "-no-remote" "-profile" "C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofileJHU4EP"
+1644432700722	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofileJHU4EP\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64336/devtools/browser/edeae2f8-87f0-4e42-b4b4-d4a430d44856
+1644432702711	Marionette	INFO	Listening on port 64341
+1644432703081	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.amazon.in/Jabra-Elite-Wireless-Earbuds-Built/dp/B09CGLJBPY/ref=lp_27269058031_1_1?th=1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1644432706802	geckodriver	INFO	Listening on 127.0.0.1:64412
+1644432709852	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64413" "-no-remote" "-profile" "C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofilejpLJ71"
+1644432710150	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofilejpLJ71\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64413/devtools/browser/9448d7bc-e1a5-49d2-8f5b-ced6508da0cc
+1644432712058	Marionette	INFO	Listening on port 64489
+1644432712519	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1644432839922	geckodriver	INFO	Listening on 127.0.0.1:58159
+1644432842994	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58160" "-no-remote" "-profile" "C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofileIBpTTl"
+1644432843238	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofileIBpTTl\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58160/devtools/browser/98e94a7f-02e0-4a57-a063-802b31b91d86
+1644432845194	Marionette	INFO	Listening on port 58166
+1644432845658	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.amazon.in/Jabra-Elite-Wireless-Earbuds-Built/dp/B09CGLJBPY/ref=lp_27269058031_1_1?th=1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1644432848740	geckodriver	INFO	Listening on 127.0.0.1:58228
+1644432851798	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58229" "-no-remote" "-profile" "C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofileIR97b3"
+1644432852076	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofileIR97b3\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58229/devtools/browser/fe182f47-3623-4942-9ea3-5762b89e0bf3
+1644432853936	Marionette	INFO	Listening on port 58305
+1644432853983	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1644433002250	geckodriver	INFO	Listening on 127.0.0.1:58422
+1644433005321	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58423" "-no-remote" "-profile" "C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofilepYFJDS"
+1644433005607	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofilepYFJDS\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58423/devtools/browser/42df1f53-7c71-42cc-a32b-d36ddaacde20
+1644433007548	Marionette	INFO	Listening on port 58430
+1644433007984	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.amazon.in/Jabra-Elite-Wireless-Earbuds-Built/dp/B09CGLJBPY/ref=lp_27269058031_1_1?th=1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+out of memory: 0x000000000001C1FA bytes requested
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1644436516423	Marionette	INFO	Stopped listening on port 58430
+[Parent 29296, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+rionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofile9KNA4o\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58491/devtools/browser/44277d4f-c40d-4550-88ad-316bf93fd621
+1644433016231	Marionette	INFO	Listening on port 58565
+1644433016644	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1644433261001	geckodriver	INFO	Listening on 127.0.0.1:58798
+1644433264061	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58799" "-no-remote" "-profile" "C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofileAukrsM"
+1644433264321	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofileAukrsM\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58799/devtools/browser/78466601-e1e3-4a7b-93ef-adbd3ed49943
+1644433266166	Marionette	INFO	Listening on port 58805
+1644433266224	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.amazon.in/Jabra-Elite-Wireless-Earbuds-Built/dp/B09CGLJBPY/ref=lp_27269058031_1_1?th=1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1644433269556	geckodriver	INFO	Listening on 127.0.0.1:58864
+1644433272611	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58865" "-no-remote" "-profile" "C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofileUHxpfe"
+1644433272893	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofileUHxpfe\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58865/devtools/browser/ef2b529b-62d3-4fcd-ae0c-4e9daad5dfcc
+1644433275109	Marionette	INFO	Listening on port 58943
+1644433275271	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1644433527444	geckodriver	INFO	Listening on 127.0.0.1:59144
+1644433530532	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59145" "-no-remote" "-profile" "C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofileAevqzf"
+1644433530868	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofileAevqzf\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59145/devtools/browser/8dc246c5-3c45-45c7-9056-4cc21867daef
+1644433532869	Marionette	INFO	Listening on port 59150
+1644433533201	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.amazon.in/Jabra-Elite-Wireless-Earbuds-Built/dp/B09CGLJBPY/ref=lp_27269058031_1_1?th=1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1644433536088	geckodriver	INFO	Listening on 127.0.0.1:59209
+1644433539151	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59210" "-no-remote" "-profile" "C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofileBfT6XT"
+1644433539444	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofileBfT6XT\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59210/devtools/browser/62d3fc66-8e96-4fcd-8b9d-0634df0e6e19
+1644433541616	Marionette	INFO	Listening on port 59292
+1644433541815	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1644433681342	geckodriver	INFO	Listening on 127.0.0.1:59471
+1644433684409	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59472" "-no-remote" "-profile" "C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofileCq6phQ"
+1644433684677	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofileCq6phQ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59472/devtools/browser/e84257b7-6a8e-4e4f-b0f6-12b4f4e7604f
+1644433686715	Marionette	INFO	Listening on port 59478
+1644433687080	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.amazon.in/Jabra-Elite-Wireless-Earbuds-Built/dp/B09CGLJBPY/ref=lp_27269058031_1_1?th=1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1644433689915	geckodriver	INFO	Listening on 127.0.0.1:59546
+1644433692961	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59547" "-no-remote" "-profile" "C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofile28nlXZ"
+1644433693272	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofile28nlXZ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59547/devtools/browser/deefb875-8279-489d-bb20-190c0543aa2d
+1644433695350	Marionette	INFO	Listening on port 59622
+1644433695622	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1644433765310	geckodriver	INFO	Listening on 127.0.0.1:59739
+1644433768384	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59740" "-no-remote" "-profile" "C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofileeBp8pn"
+1644433768692	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofileeBp8pn\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59740/devtools/browser/f40434f6-bf35-4de2-a173-7be152d6696d
+1644433770897	Marionette	INFO	Listening on port 59746
+1644433771084	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.amazon.in/Jabra-Elite-Wireless-Earbuds-Built/dp/B09CGLJBPY/ref=lp_27269058031_1_1?th=1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1644433773998	geckodriver	INFO	Listening on 127.0.0.1:59810
+1644433777058	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59811" "-no-remote" "-profile" "C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofilei7mF4S"
+1644433777432	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofilei7mF4S\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59811/devtools/browser/ce441820-b280-4d34-b653-1a7c64ff6360
+1644433779595	Marionette	INFO	Listening on port 59887
+1644433779721	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+remote-debugging-port" "59994" "-no-remote" "-profile" "C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofileuEmBTr"
+1644433788428	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofileuEmBTr\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59994/devtools/browser/7ccc7c4f-592c-4076-a89b-f848a2496176
+1644433790729	Marionette	INFO	Listening on port 59999
+1644433791171	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.amazon.in/Jabra-Elite-Wireless-Earbuds-Built/dp/B09CGLJBPY/ref=lp_27269058031_1_1?th=1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1644433793883	geckodriver	INFO	Listening on 127.0.0.1:60055
+1644433796933	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60056" "-no-remote" "-profile" "C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofileV0hzq4"
+1644433797306	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofileV0hzq4\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60056/devtools/browser/271d4cbc-c4cf-4ca3-9a8a-8425a5bd993f
+1644433799866	Marionette	INFO	Listening on port 60135
+1644433800108	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1644435829623	geckodriver	INFO	Listening on 127.0.0.1:54784
+1644435832703	mozrunner::runner	INFO	Running command: "C:\\P1644435833501	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54791" "-no-remote" "-profile" "C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozproficonsole.warn: SearchSettings: "get: No settings file exists,console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\simsk\\AppData\\Local\\TeDevTools listening on ws://localhost:54785/devtools/browser/DevTools listening on ws://localhost:54791/devtools/browser/c6240828-e9c6-447d-bf96-027526ac81644435836396	RemoteAgent	WARN	TLS certificate errors will b1644435836665	RemoteAgent	WAJavaScript warning: https://www.amazon.in/Melomane-MelophoneJavaScript warning: https://www.amazon.in/Melomane-Melophones-Headphone-Power-Packed-Ergonomic/dp/B08PZ7KF2H/?_encoding=UTF8&pd_rd_w=FD54X&pf_rd_p=af3269f8-dfce-4b62-bd10-bf6b79632555&pf_rd_r=R8CZ6MA8X4V93BCFMH8F&pd_rd_r=ab8dce6d-28cb-47fd-9ed0-b04af5a051cb&pd_rd_wg=iArZu&ref_=pd_gw_unk&th=1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is depreA content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1644436516376	Marionette	INFO	Stopped listening on port 54798
+[Parent 35708, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+fox\\firefox.exe" "--marionette" "--remote-debugging-port" "54930" "-no-remote" "-profile" "C:\1644435843124	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists,console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\simsk\\AppData\\Local\\
+DevTools listening on ws://localhost:54918/devtools/browser/DevTools listening on ws://localhost:54930/devtools/browser/fd6dcd2b-961f-4df2-9a86-b3b82948f1644435846362	RemoteAgent	WARN	TLS certificate errors will b1644435846589	RemoteAgent	WAJavaScript warning: https://static-assets-web.flixcart.com/pJavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1644435902357	geckodriver	INFO	Listening on 127.0.0.1:55338
+1644435905452	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55339" "-no-remote" "-profile" "C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofileSM8mNG"
+1644435905835	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofileSM8mNG\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55339/devtools/browser/3ab1d076-8cb2-4eef-90e5-3adcdb6e97b0
+1644435908151	Marionette	INFO	Listening on port 55349
+1644435908609	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.amazon.in/Jabra-Elite-Wireless-Earbuds-Built/dp/B09CGLJBPY/ref=lp_27269058031_1_1?th=1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1644435912097	geckodriver	INFO	Listening on 127.0.0.1:55425
+1644435915178	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55426" "-no-remote" "-profile" "C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofile42JRrA"
+1644435915506	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofile42JRrA\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55426/devtools/browser/27649c9e-4354-4445-8a13-6099cf4320c1
+1644435917646	Marionette	INFO	Listening on port 55503
+1644435917845	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1644436364963	geckodriver	INFO	Listening on 127.0.0.1:51736
+1644436368034	mozrunner::runner	INFO	Running command: "C:\\P1644436368480	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51741" "-no-remote" "-profile" "C:\1644436368547	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists,console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\simsk\\AppData\\Local\\
+DevTools listening on ws://localhost:51737/devtools/browser/DevTools listening on ws://localhost:51644436372027	Marionette	INFO	Listening on port 51748
+1644436372264	RemoteAgent	WARN	TLS certificate errors will b1644436372265	RemoteAgent	WAJavaScript warning: https://www.amazon.in/Melomane-Melophones-Headphone-Power-Packed-Ergonomic/dp/B08PZ7KF2H/?_encoding=UTF8&pd_rd_w=FD54X&pf_rd_p=af3269f8-dfce-4b62-bd10-bf6b79632555&pf_rd_r=R8CZ6MA8X4V93BCFMH8F&pd_rd_r=ab8dce6d-28cb-47fd-9ed0-b04af5a051cb&pd_rd_wg=iArZu&ref_=pd_gw_unk&th=1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+cated in Firefox and will be removed. Please use RENDERER.
+1644436376054	geckodriver	INFO	Listening on 127.0.0.1:51884
+1644436379113	mozrunner::runner	INFO	Running command: "C:\\P1644436379287	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51892" "-no-remote" "-profile" "C:\1644436379551	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofilevgTYjj\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51885/devtools/browser/8f5a6a12-1df8-4e34-a7a7-34f3a6d7a423
+1644436382867	Marionette	INFO	Listening on port 51958
+1644436383306	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+cated in Firefox and will be removed. Please use RENDERER.
+1644436472318	geckodriver	INFO	Listening on 127.0.0.1:49419
+1644436475387	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49421" "-no-remote" "-profile" "C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofileE8tyyc"
+1644436475957	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofileE8tyyc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49420/devtools/browser/83a7dfec-a21f-48d1-97cc-2e65c5d059ce
+1644436479935	Marionette	INFO	Listening on port 49431
+1644436480174	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.amazon.in/Melomane-Melophones-Headphone-Power-Packed-Ergonomic/dp/B08PZ7KF2H/?_encoding=UTF8&pd_rd_w=FD54X&pf_rd_p=af3269f8-dfce-4b62-bd10-bf6b79632555&pf_rd_r=R8CZ6MA8X4V93BCFMH8F&pd_rd_r=ab8dce6d-28cb-47fd-9ed0-b04af5a051cb&pd_rd_wg=iArZu&ref_=pd_gw_unk&th=1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Failed to compile vertex shader: cs_linear_gradient
+
+[2022-02-09T19:55:13Z ERROR webrender::device::gl] Failed to compile vertex shader: cs_linear_gradient
+    
+[GFX1-]: DCompositionSurface::BeginDraw failed: 0x8007000e
+[GFX1-]: DCompositionSurface::BeginDraw failed: 0x8007000e
+[GFX1-]: DCompositionSurface::BeginDraw fa[GFX1-]: Fallbailed: 0ck WR tx8007000e
+o SW-WR + D3D11
+[GFX1-]: DCompositionSurface::BeginDraw failed: 0x8007000e
+[GFX1-]: wr_renderer_render: OutOfMemory
+[GFX1-]: wr_renderer_render: Shader(Compilation("cs_linear_gradient", ""))
+[Parent 34556, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:565
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1644436515710	Marionette	INFO	Stopped listening on port 49430
+[Parent 34556, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+NDERER.
+[GFX1]: CreateDataSourceSurfaceWithStride failed to initialize Size(2000,200), SurfaceFormat::B8G8R8A8, 8000, false
+[GFX1]: [D2D1.1] 6CreateBitmap failure Size(2000,200) Code: 0x8007000e format 0
+
+###!!! [Child][PGPUChild] Error: Send(msgname=PGPU::Msg_ShutdownVR) Channel error: cannot send/recv
+
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+
+###!!! [Child][PCompositorManagerChild] Error: Send(msgname=PWebRenderBridge::Msg_Shutdown) Channel error: cannot send/recv
+
+
+###!!! [Child][PCompositorManagerChild] Error: Send(msgname=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][PCompositorManagerChild] Error: Send(msgname=PAPZ::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][PCompositorManagerChild] Error: SendAndWait(msgname=PCompositorBridge::Msg_WillClose) Channel error: cannot send/recv
+
+
+###!!! [Child][PCompositorManagerChild] Error: Send(msgname=PWebRenderBridge::Msg_Shutdown) Channel error: cannot send/recv
+
+
+###!!! [Child][PCompositorManagerChild] Error: SendAndWait(msgname=PCompositorBridge::Msg_WillClose) Channel error: cannot send/recv
+
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+
+###!!! [Child][PCompositorManagerChild] Error: Send(msgname=PWebRenderBridge::Msg_SetDisplayList) Channel error: cannot send/recv
+
+
+###!!! [Child][PCompositorManagerChild] Error: Send(msgname=PWebRenderBridge::Msg_SetFocusTarget) Channel error: cannot send/recv
+
+
+###!!! [Child][PCanvasManagerChild] Error: Send(msgname=SHMEM_CREATED_MESSAGE) Channel error: cannot send/recv
+
+
+###!!! [Child][PCanvasManagerChild] Error: RunMessage(msgname=SHMEM_DESTROYED_MESSAGE) Channel error: cannot send/recv
+
+
+###!!! [Child][PCanvasManagerChild] Error: Send(msgname=PWebGL::Msg_DispatchCommands) Channel error: cannot send/recv
+
+
+###!!! [Child][PCanvasManagerChild] Error: RunMessage(msgname=SHMEM_DESTROYED_MESSAGE) Channel error: cannot send/recv
+
+
+###!!! [Child][PCanvasManagerChild] Error: RunMessage(msgname=SHMEM_DESTROYED_MESSAGE) Channel error: cannot send/recv
+
+
+###!!! [Child][PCanvasManagerChild] Error: RunMessage(msgname=SHMEM_DESTROYED_MESSAGE) Channel error: cannot send/recv
+
+
+###!!! [Child][PCanvasManagerChild] Error: RunMessage(msgname=PWebGL::Msg_JsWarning) Channel error: cannot send/recv
+
+
+###!!! [Child][PCanvasManagerChild] Error: RunMessage(msgname=PWebGL::Msg_JsWarning) Channel error: cannot send/recv
+
+
+###!!! [Child][PCanvasManagerChild] Error: RunMessage(msgname=SHMEM_DESTROYED_MESSAGE) Channel error: cannot send/recv
+
+
+###!!! [Child][PCanvasManagerChild] Error: RunMessage(msgname=SHMEM_DESTROYED_MESSAGE) Channel error: cannot send/recv
+
+
+###!!! [Child][PCanvasManagerChild] Error: RunMessage(msgname=SHMEM_DESTROYED_MESSAGE) Channel error: cannot send/recv
+
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+JavaScript warning: , line 0: Failed to allocate internal command buffer.
+JavaScript warning: , line 0: WebGL context was lost.
+1644436555386	geckodriver	INFO	Listening on 127.0.0.1:59428
+1644436558473	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59429" "-no-remote" "-profile" "C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofile529KoZ"
+1644436558731	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofile529KoZ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59429/devtools/browser/3f2e24d0-aa3d-4022-a094-a21cfba1eeeb
+1644436560647	Marionette	INFO	Listening on port 59434
+1644436561135	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.amazon.in/Melomane-Melophones-Headphone-Power-Packed-Ergonomic/dp/B08PZ7KF2H/?_encoding=UTF8&pd_rd_w=FD54X&pf_rd_p=af3269f8-dfce-4b62-bd10-bf6b79632555&pf_rd_r=R8CZ6MA8X4V93BCFMH8F&pd_rd_r=ab8dce6d-28cb-47fd-9ed0-b04af5a051cb&pd_rd_wg=iArZu&ref_=pd_gw_unk&th=1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1644436563233	geckodriver	INFO	Listening on 127.0.0.1:59490
+1644436566305	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59491" "-no-remote" "-profile" "C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofile3vuioZ"
+1644436566561	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofile3vuioZ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59491/devtools/browser/736e788f-a311-4291-82c9-23322dd40539
+1644436568346	Marionette	INFO	Listening on port 59510
+1644436568372	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1644436607405	geckodriver	INFO	Listening on 127.0.0.1:59742
+1644436610482	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59743" "-no-remote" "-profile" "C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofilespQdm4"
+1644436610761	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofilespQdm4\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59743/devtools/browser/3aff9fd2-a540-4111-b6e4-80b4f8fbdb48
+1644436612607	Marionette	INFO	Listening on port 59748
+1644436612652	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.amazon.in/Jabra-Elite-Wireless-Earbuds-Built/dp/B09CGLJBPY/ref=lp_27269058031_1_1?th=1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1644436616242	geckodriver	INFO	Listening on 127.0.0.1:59817
+1644436619306	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59818" "-no-remote" "-profile" "C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofileOzvB4P"
+1644436619583	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofileOzvB4P\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59818/devtools/browser/23ae0718-4c39-423d-8b2e-6478e623ab95
+1644436621424	Marionette	INFO	Listening on port 59899
+1644436621459	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1644436827129	geckodriver	INFO	Listening on 127.0.0.1:60016
+1644436830203	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60017" "-no-remote" "-profile" "C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofilemZrOYD"
+1644436830489	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofilemZrOYD\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60017/devtools/browser/29e768f0-30e9-4ebf-8d55-18d8618eeb68
+1644436832339	Marionette	INFO	Listening on port 60022
+1644436832371	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.amazon.in/Melomane-Melophone1644436838442	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60085" "-no-remote" "-profile" "C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofilesdAahe"
+1644436838713	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofilesdAahe\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60085/devtools/browser/1f54a1cb-f088-46f8-a7d7-04808476de5b
+1644436840535	Marionette	INFO	Listening on port 60100
+1644436840602	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1644436868848	geckodriver	INFO	Listening on 127.0.0.1:60285
+1644436871924	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60286" "-no-remote" "-profile" "C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofileQcRBeA"
+1644436872173	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofileQcRBeA\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60286/devtools/browser/17dde8c3-4538-4534-bb2a-a5c646ed90b1
+1644436874051	Marionette	INFO	Listening on port 60291
+1644436874086	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.amazon.in/Jabra-Elite-Wireless-Earbuds-Built/dp/B09CGLJBPY/ref=lp_27269058031_1_1?th=1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1644436877417	geckodriver	INFO	Listening on 127.0.0.1:60363
+1644436880463	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60364" "-no-remote" "-profile" "C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofileQhM9Y6"
+1644436880784	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofileQhM9Y6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60364/devtools/browser/f4649fc7-972e-4f8a-87ee-5e2b22b33bf1
+1644436883267	Marionette	INFO	Listening on port 60461
+1644436883662	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1644436924821	geckodriver	INFO	Listening on 127.0.0.1:60578
+1644436927911	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60579" "-no-remote" "-profile" "C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofileUqPqaw"
+1644436928227	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofileUqPqaw\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60579/devtools/browser/4650bb61-eaa8-43f2-a766-36a9ba3fdd39
+1644436930137	Marionette	INFO	Listening on port 60585
+1644436930573	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.amazon.in/Melomane-Melophones-Headphone-Power-Packed-Ergonomic/dp/B08PZ7KF2H/?_encoding=UTF8&pd_rd_w=FD54X&pf_rd_p=af3269f8-dfce-4b62-bd10-bf6b79632555&pf_rd_r=R8CZ6MA8X4V93BCFMH8F&pd_rd_r=ab8dce6d-28cb-47fd-9ed0-b04af5a051cb&pd_rd_wg=iArZu&ref_=pd_gw_unk&th=1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1644437005301	geckodriver	INFO	Listening on 127.0.0.1:60850
+1644437008343	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60851" "-no-remote" "-profile" "C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofile9HjOsF"
+1644437008671	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofile9HjOsF\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60851/devtools/browser/c27ed38a-7839-4393-ba22-5a4d2693af6c
+1644437011252	Marionette	INFO	Listening on port 60857
+1644437011532	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.amazon.in/BFIT-Digital-Dial-Mens-Watch-ACEX-Pink/dp/B09Q64ZQYY/ref=sr_1_1_sspa?keywords=watches&qid=1644436988&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUE5QVJRRkJVTUlQNFAmZW5jcnlwdGVkSWQ9QTAyNjU0MThTTTZHU0tLSU02R1omZW5jcnlwdGVkQWRJZD1BMDk4NzE5MTFTREU0S1BIOVNGR0Umd2lkZ2V0TmFtZT1zcF9hdGYmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1644437041645	geckodriver	INFO	Listening on 127.0.0.1:61027
+1644437044710	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61028" "-no-remote" "-profile" "C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofile9KSxhe"
+1644437045081	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofile9KSxhe\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61028/devtools/browser/37f6e8cc-e09f-4aa5-b418-b7c9fe903e08
+1644437047013	Marionette	INFO	Listening on port 61034
+1644437047390	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.amazon.in/Melomane-Melophones-Headphone-Power-Packed-Ergonomic/dp/B08PZ7KF2H/?_encoding=UTF8&pd_rd_w=FD54X&pf_rd_p=af3269f8-dfce-4b62-bd10-bf6b79632555&pf_rd_r=R8CZ6MA8X4V93BCFMH8F&pd_rd_r=ab8dce6d-28cb-47fd-9ed0-b04af5a051cb&pd_rd_wg=iArZu&ref_=pd_gw_unk&th=1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1644437064645	geckodriver	INFO	Listening on 127.0.0.1:61194
+1644437067731	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61195" "-no-remote" "-profile" "C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofileKcbXMv"
+1644437068009	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofileKcbXMv\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61195/devtools/browser/055c53c4-890b-4c58-ac06-d01ccddf3e54
+1644437070009	Marionette	INFO	Listening on port 61200
+1644437070416	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.amazon.in/BFIT-Digital-Dial-Mens-Watch-ACEX-Pink/dp/B09Q64ZQYY/ref=sr_1_1_sspa?keywords=watches&qid=1644436988&sr=8-1-spons&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUE5QVJRRkJVTUlQNFAmZW5jcnlwdGVkSWQ9QTAyNjU0MThTTTZHU0tLSU02R1omZW5jcnlwdGVkQWRJZD1BMDk4NzE5MTFTREU0S1BIOVNGR0Umd2lkZ2V0TmFtZT1zcF9hdGYmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl&th=1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1644437093188	geckodriver	INFO	Listening on 127.0.0.1:61357
+1644437096260	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61358" "-no-remote" "-profile" "C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofile6eEwJx"
+1644437096542	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofile6eEwJx\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61358/devtools/browser/38d8c2c2-8561-48ec-813f-5e2c39af6d33
+1644437098564	Marionette	INFO	Listening on port 61364
+1644437098913	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.amazon.in/Melomane-Melophones-Headphone-Power-Packed-Ergonomic/dp/B08PZ7KF2H/?_encoding=UTF8&pd_rd_w=FD54X&pf_rd_p=af3269f8-dfce-4b62-bd10-bf6b79632555&pf_rd_r=R8CZ6MA8X4V93BCFMH8F&pd_rd_r=ab8dce6d-28cb-47fd-9ed0-b04af5a051cb&pd_rd_wg=iArZu&ref_=pd_gw_unk&th=1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1644437143530	geckodriver	INFO	Listening on 127.0.0.1:61532
+1644437146589	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61533" "-no-remote" "-profile" "C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofilePHDg9N"
+1644437146899	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofilePHDg9N\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61533/devtools/browser/da985b40-f42c-440e-b817-8263c1dfdd34
+1644437149085	Marionette	INFO	Listening on port 61538
+1644437149242	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.amazon.in/BFIT-Digital-Dial-Mens-Watch-ACEX-Pink/dp/B09Q64ZQYY/ref=sr_1_1_sspa?keywords=watches&qid=1644436988&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUE5QVJRRkJVTUlQNFAmZW5jcnlwdGVkSWQ9QTAyNjU0MThTTTZHU0tLSU02R1omZW5jcnlwdGVkQWRJZD1BMDk4NzE5MTFTREU0S1BIOVNGR0Umd2lkZ2V0TmFtZT1zcF9hdGYmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1644437225906	geckodriver	INFO	Listening on 127.0.0.1:61723
+1644437228970	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61724" "-no-remote" "-profile" "C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofilehslUtn"
+1644437229382	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofilehslUtn\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61724/devtools/browser/4fa8431e-b48e-43ad-a35e-c8937d08ccc9
+1644437232545	Marionette	INFO	Listening on port 61733
+1644437232689	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.amazon.in/Melomane-Melophones-Headphone-Power-Packed-Ergonomic/dp/B08PZ7KF2H/?_encoding=UTF8&pd_rd_w=FD54X&pf_rd_p=af3269f8-dfce-4b62-bd10-bf6b79632555&pf_rd_r=R8CZ6MA8X4V93BCFMH8F&pd_rd_r=ab8dce6d-28cb-47fd-9ed0-b04af5a051cb&pd_rd_wg=iArZu&ref_=pd_gw_unk&th=1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1644437234878	geckodriver	INFO	Listening on 127.0.0.1:61805
+1644437237922	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61806" "-no-remote" "-profile" "C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofilery6BbG"
+1644437238317	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofilery6BbG\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61806/devtools/browser/c57143ad-db59-432f-aa27-5074f42d0dd4
+1644437241135	Marionette	INFO	Listening on port 61832
+1644437241608	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+remote-debugging-port" "62005" "-no-remote" "-profile" "C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofileDaJcWF"
+1644437261644	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofileDaJcWF\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62005/devtools/browser/c7917c10-c177-4c4d-be90-86f8b3481aa2
+1644437264195	Marionette	INFO	Listening on port 62011
+1644437264522	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.amazon.in/BFIT-Digital-Dial-Mens-Watch-ACEX-Pink/dp/B09Q64ZQYY/ref=sr_1_1_sspa?keywords=watches&qid=1644436988&sr=8-1-spons&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUE5QVJRRkJVTUlQNFAmZW5jcnlwdGVkSWQ9QTAyNjU0MThTTTZHU0tLSU02R1omZW5jcnlwdGVkQWRJZD1BMDk4NzE5MTFTREU0S1BIOVNGR0Umd2lkZ2V0TmFtZT1zcF9hdGYmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl&th=1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1644437267648	geckodriver	INFO	Listening on 127.0.0.1:62103
+1644437270692	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62104" "-no-remote" "-profile" "C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofilelgnKDv"
+1644437271119	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofilelgnKDv\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62104/devtools/browser/ce22a4a4-513f-4cbe-ad39-9d556404c477
+1644437274278	Marionette	INFO	Listening on port 62182
+1644437274391	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1644437521952	geckodriver	INFO	Listening on 127.0.0.1:62451
+1644437525034	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62452" "-no-remote" "-profile" "C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofilepBiFAz"
+1644437525477	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofilepBiFAz\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62452/devtools/browser/c52fb58c-409c-49de-bf67-7a725ba16b4b
+1644437528199	Marionette	INFO	Listening on port 62457
+1644437528249	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.amazon.in/Melomane-Melophones-Headphone-Power-Packed-Ergonomic/dp/B08PZ7KF2H/?_encoding=UTF8&pd_rd_w=FD54X&pf_rd_p=af3269f8-dfce-4b62-bd10-bf6b79632555&pf_rd_r=R8CZ6MA8X4V93BCFMH8F&pd_rd_r=ab8dce6d-28cb-47fd-9ed0-b04af5a051cb&pd_rd_wg=iArZu&ref_=pd_gw_unk&th=1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1644437537352	geckodriver	INFO	Listening on 127.0.0.1:62534
+1644437540418	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62535" "-no-remote" "-profile" "C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofilePqdM2R"
+1644437540753	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofilePqdM2R\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62535/devtools/browser/35f9cf11-7aea-4b51-bec7-c45e62040c3e
+1644437543508	Marionette	INFO	Listening on port 62624
+1644437543616	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1644437578520	geckodriver	INFO	Listening on 127.0.0.1:62768
+1644437581577	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62769" "-no-remote" "-profile" "C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofileU0rGbs"
+1644437581925	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofileU0rGbs\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62769/devtools/browser/66973f4c-102c-40c4-8705-5a2e8de09c2b
+1644437584322	Marionette	INFO	Listening on port 62774
+1644437584748	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.amazon.in/BFIT-Digital-Dial-Mens-Watch-ACEX-Pink/dp/B09Q64ZQYY/ref=sr_1_1_sspa?keywords=watches&qid=1644436988&sr=8-1-spons&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUE5QVJRRkJVTUlQNFAmZW5jcnlwdGVkSWQ9QTAyNjU0MThTTTZHU0tLSU02R1omZW5jcnlwdGVkQWRJZD1BMDk4NzE5MTFTREU0S1BIOVNGR0Umd2lkZ2V0TmFtZT1zcF9hdGYmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl&th=1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1644437588150	geckodriver	INFO	Listening on 127.0.0.1:62854
+1644437591207	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62855" "-no-remote" "-profile" "C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofile8wyKyU"
+1644437591538	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofile8wyKyU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62855/devtools/browser/01e01be4-275f-4d1a-b8f4-c384d210eb19
+1644437593882	Marionette	INFO	Listening on port 62928
+1644437594397	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1644437658175	geckodriver	INFO	Listening on 127.0.0.1:63108
+1644437661248	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63109" "-no-remote" "-profile" "C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofileZ3iaOn"
+1644437661802	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofileZ3iaOn\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63109/devtools/browser/3eaec8ea-84cc-424d-9130-f15cc1c2f7d7
+1644437665429	Marionette	INFO	Listening on port 63116
+1644437665466	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.amazon.in/Melomane-Melophones-Headphone-Power-Packed-Ergonomic/dp/B08PZ7KF2H/?_encoding=UTF8&pd_rd_w=FD54X&pf_rd_p=af3269f8-dfce-4b62-bd10-bf6b79632555&pf_rd_r=R8CZ6MA8X4V93BCFMH8F&pd_rd_r=ab8dce6d-28cb-47fd-9ed0-b04af5a051cb&pd_rd_wg=iArZu&ref_=pd_gw_unk&th=1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1644437668673	geckodriver	INFO	Listening on 127.0.0.1:63188
+1644437671784	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63189" "-no-remote" "-profile" "C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofileoWJidc"
+1644437672308	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofileoWJidc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63189/devtools/browser/64b3306e-4860-4d8b-927f-0650b5f7a4a9
+1644437675004	Marionette	INFO	Listening on port 63285
+1644437675480	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+remote-debugging-port" "63402" "-no-remote" "-profile" "C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofileB52SWg"
+1644437695841	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofileB52SWg\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63402/devtools/browser/611cf78b-f5fa-4c3f-b049-aa7dbc50cca4
+1644437698297	Marionette	INFO	Listening on port 63408
+1644437698677	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.amazon.in/BFIT-Digital-Dial-Mens-Watch-ACEX-Pink/dp/B09Q64ZQYY/ref=sr_1_1_sspa?keywords=watches&qid=1644436988&sr=8-1-spons&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUE5QVJRRkJVTUlQNFAmZW5jcnlwdGVkSWQ9QTAyNjU0MThTTTZHU0tLSU02R1omZW5jcnlwdGVkQWRJZD1BMDk4NzE5MTFTREU0S1BIOVNGR0Umd2lkZ2V0TmFtZT1zcF9hdGYmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl&th=1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1644437701459	geckodriver	INFO	Listening on 127.0.0.1:63481
+1644437704505	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63482" "-no-remote" "-profile" "C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofileZzvfqu"
+1644437704882	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofileZzvfqu\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63482/devtools/browser/7d68e27b-3893-42a7-b21e-beabd005032f
+1644437707536	Marionette	INFO	Listening on port 63562
+1644437707737	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1644438240292	geckodriver	INFO	Listening on 127.0.0.1:50460
+1644438243391	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50461" "-no-remote" "-profile" "C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofileWqhTOA"
+1644438243907	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofileWqhTOA\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50461/devtools/browser/bdc33c0d-f122-48ec-8650-894084dd2d64
+1644438246827	Marionette	INFO	Listening on port 50467
+1644438247097	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.amazon.in/BFIT-Digital-Dial-Mens-Watch-ACEX-Pink/dp/B09Q64ZQYY/ref=sr_1_1_sspa?keywords=watches&qid=1644436988&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUE5QVJRRkJVTUlQNFAmZW5jcnlwdGVkSWQ9QTAyNjU0MThTTTZHU0tLSU02R1omZW5jcnlwdGVkQWRJZD1BMDk4NzE5MTFTREU0S1BIOVNGR0Umd2lkZ2V0TmFtZT1zcF9hdGYmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1644438250189	geckodriver	INFO	Listening on 127.0.0.1:50543
+1644438253250	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50544" "-no-remote" "-profile" "C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofileaY26Ul"
+1644438253685	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofileaY26Ul\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50544/devtools/browser/c0dfc45e-cc91-45e5-bdd7-74b8735e6898
+1644438256059	Marionette	INFO	Listening on port 50619
+1644438256455	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1644438835246	geckodriver	INFO	Listening on 127.0.0.1:50995
+1644438838329	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50996" "-no-remote" "-profile" "C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofileH66FmY"
+1644438838731	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofileH66FmY\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50996/devtools/browser/0d21ab80-deb1-45e7-825e-a2af49daa6fb
+1644438840755	Marionette	INFO	Listening on port 51001
+1644438841021	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.amazon.in/iQOO-Storage-Snapdragon-Processor-FlashCharge/dp/B07WGPJV3H?smid=AQUYM0O99MFUT&pf_rd_r=NY2VEVSWZXS1DZNBG75F&pf_rd_p=f690369a-7bb4-48bb-9349-f68a447ef06d&pd_rd_r=53a3fa8f-d08a-4989-ac6d-29001e8b57f7&pd_rd_w=BRGPF&pd_rd_wg=PToG5&ref_=pd_gw_unk line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1644438844254	geckodriver	INFO	Listening on 127.0.0.1:51063
+1644438847294	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51064" "-no-remote" "-profile" "C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofile91y5VF"
+1644438847554	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofile91y5VF\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51064/devtools/browser/1b80858f-620c-4346-915c-76a8cfe02511
+1644438849398	Marionette	INFO	Listening on port 51159
+1644438849450	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1644438896403	geckodriver	INFO	Listening on 127.0.0.1:51272
+1644438899466	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51273" "-no-remote" "-profile" "C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofileTW9e1A"
+1644438899726	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofileTW9e1A\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51273/devtools/browser/ff3e25b1-f17a-4304-99e7-0bbdf0a06b40
+1644438901686	Marionette	INFO	Listening on port 51279
+1644438902136	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.amazon.in/iQOO-Storage-Snapdragon-Processor-FlashCharge/dp/B07WGPJV3H?smid=AQUYM0O99MFUT&pf_rd_r=NY2VEVSWZXS1DZNBG75F&pf_rd_p=f690369a-7bb4-48bb-9349-f68a447ef06d&pd_rd_r=53a3fa8f-d08a-4989-ac6d-29001e8b57f7&pd_rd_w=BRGPF&pd_rd_wg=PToG5&ref_=pd_gw_unk line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1644438905693	geckodriver	INFO	Listening on 127.0.0.1:51343
+1644438908757	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51344" "-no-remote" "-profile" "C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofilefbAcWh"
+1644438909034	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofilefbAcWh\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51344/devtools/browser/eaa3a037-754b-4871-99d6-5cd99fddcd67
+1644438910959	Marionette	INFO	Listening on port 51434
+1644438911410	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-assets-web.flixcart.com/p1644438934274	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51553" "-no-remote" "-profile" "C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofile6yRYD5"
+1644438934544	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofile6yRYD5\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51553/devtools/browser/b8e1e55c-72f8-4d6f-bed6-96271db9db15
+1644438936387	Marionette	INFO	Listening on port 51560
+1644438936431	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.amazon.in/Nutella-Hazelnut-Spread-Cocoa-350g/dp/B00LOZWYPO?ref_=Oct_DLandingS_D_d96e96e7_61&smid=AT95IG9ONZD7S&th=1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1644438939729	geckodriver	INFO	Listening on 127.0.0.1:51629
+1644438942791	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51630" "-no-remote" "-profile" "C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofilepku8z8"
+1644438943082	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofilepku8z8\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51630/devtools/browser/2e818d59-2988-4497-8efe-a49fedae500d
+1644438945155	Marionette	INFO	Listening on port 51710
+1644438945449	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
