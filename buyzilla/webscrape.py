@@ -1,52 +1,35 @@
-from traceback import print_tb
-import requests
-from bs4 import BeautifulSoup 
+from selenium import webdriver
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
 
-def scrape(amz_link, flip_link):
+def scrape(amz_link,  flip_link):
+    return amazonscrape(amz_link).append(flipkartscrape(flip_link))
 
-    #Fetching Data from Websites
-    headers = { "user-Agent": 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36'}
-    # amazon_url = 'https://www.amazon.in/Fire-Boltt-Smartwatch-Workout-Tracking-extensive/dp/B09NM8S1V4/ref=psdc_5605728031_t1_B0972BQ2RS'
-    amazon_url = amz_link
+def amazonscrape(amz_link):
+    driver = webdriver.Firefox()
+    driver.get(amz_link)
+    amz_product = driver.find_element_by_id("productTitle").get_attribute('innerText')
+    amz_price = driver.find_element_by_class_name("a-offscreen").get_attribute("innerText")
+    print([amz_product,amz_price])
+    return [amz_product,amz_price]
 
-    page = requests.get(amazon_url,headers= headers)
-    soup = BeautifulSoup(page.content,"lxml")
-    # amazon_title = soup.find( 'span', id = "productTitle").get_text()
-    # print("Amazon Product : ",amazon_title)
+def flipkartscrape(flip_link):
+    driver = webdriver.Firefox()
+    driver.get(flip_link)
+    flipkart_product = driver.find_element_by_class_name("B_NuCI").get_attribute("innerText")
 
-    amazon_price = soup.find('span', class_= "a-offscreen").get_text()
-    print("Amazon Product Price: ",amazon_price)
+    # flipkart_element = WebDriverWait(driver, 30).until(EC.presence_of_element_located((By.CLASS_NAME, "_30jeq3 _16Jk6d"))) #This is a dummy element
+    # print(flipkart_element.__name__)
+    flipkart_price = driver.find_element(By.CSS_SELECTOR(".30jeq3 _16Jk6d"))
+    
+    # print([flipkart_product,flipkart_price])
+    # return [flipkart_product,flipkart_price]
 
-    # flipkart_product_url = "https://www.flipkart.com/fire-boltt-ninja-touch-wake-spo2-smartwatch/p/itm05b47a90c7c32"
-    flipkart_product_url = flip_link
-
-    page = requests.get(flipkart_product_url, headers=headers)
-    soup= BeautifulSoup(page.content,"lxml")
-    flipkart_title = soup.find('span',class_ = "B_NuCI").get_text()
-    print("Flipkart Product : ",flipkart_title)
-
-    flipkart_price = soup.find('div',class_ = "_30jeq3 _16Jk6d").get_text()
-    print("FlipKart Product Price: ", flipkart_price)
-
-    # vijaysales_url = "https://www.vijaysales.com/amazfit-bip-u-pro-smart-watch-green-with-spo2-measurement-24-x-7-heart-rate-tracking-60-built-in-sport-modes/16805"
-    # vijaysales_url = "https://www.vijaysales.com/vivo-y21-4-gb-ram-64-gb-rom-diamond-glow/17179"
+scrape("https://www.amazon.in/Melomane-Melophones-Headphone-Power-Packed-Ergonomic/dp/B08PZ7KF2H/?_encoding=UTF8&pd_rd_w=FD54X&pf_rd_p=af3269f8-dfce-4b62-bd10-bf6b79632555&pf_rd_r=R8CZ6MA8X4V93BCFMH8F&pd_rd_r=ab8dce6d-28cb-47fd-9ed0-b04af5a051cb&pd_rd_wg=iArZu&ref_=pd_gw_unk&th=1",
+"https://www.flipkart.com/teddy-sport-5-feet-pink-bear-gift-152-cm-pink/p/itm8e6ded7514591?pid=STFFKHJHM5REAWMH&lid=LSTSTFFKHJHM5REAWMHH6CZQW&marketplace=FLIPKART&store=tng%2Fclb%2Fxv3&srno=b_1_1&otracker=hp_reco_Trending%2BOffers_4_13.dealCard.OMU_cid%3AS_F_N_tng_clb_xv3__o_nb_mp_00b7091228__NONE_ALL%3Bnid%3Atng_clb_xv3_%3Bet%3AS%3Beid%3Atng_clb_xv3_%3Bmp%3AF%3Bct%3Ao%3B_6&otracker1=hp_reco_WHITELISTED_personalisedRecommendation%2FC2_Trending%2BOffers_DESKTOP_HORIZONTAL_dealCard_cc_4_NA_view-all_6&fm=personalisedRecommendation%2FC2&iid=en_wbm96%2BtjEzINSJ0wV4FFJlVR0UoZdVvlFQmjKc59Ou8Rm%2Bh59n94g6WxyphVP5MwDARzhTkuG497jr0L%2FH6KaA%3D%3D&ppt=browse&ppn=browse&ssid=gkjh6kcqtc0000001644151178049")
 
 
-    #Fetching data Vijay_Sales
-    # page = requests.get(vijaysales_url, headers= headers)
-    # soup = BeautifulSoup(page.content, "lxml")
-    # vijaysalestitle= soup.find(id="ContentPlaceHolder1_h1ProductTitle", itemprop="name").get_text()
-    # print("Vijay Sales Product : ",vijaysalestitle)
 
-    # vijaysales_price = soup.find('div',class_="priceMRP").select("span:nth-child(3) > span")[0].text
-    # print("Vijay Sales Product Price: "+ "₹" +vijaysales_price)
-
-
-    # if(amazon_price < flipkart_price and amazon_price < vijaysales_price):
-    #     print("Amazon product is low in price which is only in Rs. :",amazon_price)
-    # elif(flipkart_price < amazon_price and flipkart_price < vijaysales_price):
-    #     print("Flipkart product is low in price which is only in Rs. :",flipkart_price)
-    # else:
-    #     print("Vijay Sales product is low in price which is only in Rs. :",vijaysales_price)
-    return [amazon_price, flipkart_price]
-
+a1 = "seema"
+a1.getText()
