@@ -1,4 +1,6 @@
+from fileinput import filename
 from gettext import gettext
+from tkinter import Image
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
@@ -12,8 +14,10 @@ def amazonscrape(amz_link):
     driver.get(amz_link)
     amz_product = driver.find_element_by_id("productTitle").get_attribute('innerText')
     amz_price = driver.find_element_by_class_name("a-offscreen").get_attribute("innerText")
-    print([amz_product,amz_price])
-    return [amz_product,amz_price]
+    amz_img = (WebDriverWait(driver, 20).until(EC.visibility_of_element_located((By.CSS_SELECTOR, "span.a-list-item>span.a-declarative>div.imgTagWrapper>img.a-dynamic-image"))).get_attribute('src'))
+    
+    print([amz_product,amz_price,amz_img])
+    return [amz_product, amz_price, amz_img]
 
 def flipkartscrape(flip_link):
     driver = webdriver.Firefox()
@@ -24,7 +28,7 @@ def flipkartscrape(flip_link):
     # print(flipkart_element.__name__)
     flipkart_price = driver.find_element(By.CLASS_NAME, "_16Jk6d").get_attribute("innerText")
     
-    print([flipkart_product,flipkart_price])
+    #print([flipkart_product,flipkart_price])
     return [flipkart_product,flipkart_price]
 
 # scrape("https://www.amazon.in/Melomane-Melophones-Headphone-Power-Packed-Ergonomic/dp/B08PZ7KF2H/?_encoding=UTF8&pd_rd_w=FD54X&pf_rd_p=af3269f8-dfce-4b62-bd10-bf6b79632555&pf_rd_r=R8CZ6MA8X4V93BCFMH8F&pd_rd_r=ab8dce6d-28cb-47fd-9ed0-b04af5a051cb&pd_rd_wg=iArZu&ref_=pd_gw_unk&th=1",

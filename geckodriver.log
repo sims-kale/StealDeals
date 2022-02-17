@@ -1333,8 +1333,9 @@ NDERER.
 [GFX1-]: Receive IPC close with reason=AbnormalShutdown
 JavaScript warning: , line 0: Failed to allocate internal command buffer.
 JavaScript warning: , line 0: WebGL context was lost.
-1644436555386	geckodriver	INFO	Listening on 127.0.0.1:59428
-1644436558473	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59429" "-no-remote" "-profile" "C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofile529KoZ"
+1644439422268	Marionette	INFO	Stopped listening on port 49654
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "59429" "-no-remote" "-profile" "C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofile529KoZ"
 1644436558731	Marionette	INFO	Marionette enabled
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofile529KoZ\\search.json.mozlz4", (void 0)))
 DevTools listening on ws://localhost:59429/devtools/browser/3f2e24d0-aa3d-4022-a094-a21cfba1eeeb
@@ -1598,3 +1599,312 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 DevTools listening on ws://localhost:51630/devtools/browser/2e818d59-2988-4497-8efe-a49fedae500d
 1644438945155	Marionette	INFO	Listening on port 51710
 1644438945449	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1644500251294	geckodriver	INFO	Listening on 127.0.0.1:56901
+1644500254345	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56902" "-no-remote" "-profile" "C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofilewbcyKY"
+1644500255201	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofilewbcyKY\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56902/devtools/browser/3861c057-d22e-43f4-afe3-862eb6cee985
+1644500258400	Marionette	INFO	Listening on port 56917
+1644500258584	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.amazon.in/Mamaearths-Hairfall-Control-Organic-Vinegar/dp/B07RXKVVRD line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1644504963023	Marionette	INFO	Stopped listening on port 56917
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "56990" "-no-remote" "-profile" "C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofilee8NqsE"
+1644500268843	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofilee8NqsE\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56990/devtools/browser/4be90ff6-5fbf-42aa-9129-590ea321cb81
+1644500271714	Marionette	INFO	Listening on port 57067
+1644500272160	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1644504962747	Marionette	INFO	Stopped listening on port 57067
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 23480, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+500516189	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofileqF4ZgU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51608/devtools/browser/a55d456f-ee5f-4a5e-b5ae-ff2253e176eb
+1644500519132	Marionette	INFO	Listening on port 51615
+1644500519394	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.amazon.in/Mamaearths-Hairfall-Control-Organic-Vinegar/dp/B07RXKVVRD line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1644504962769	Marionette	INFO	Stopped listening on port 51615
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel closing: too late to send/recv, messages will be lost
+
+d
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofileD4HRCw\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51681/devtools/browser/844fa79d-790a-4040-8fa7-f9257a986cf3
+1644500528594	Marionette	INFO	Listening on port 51758
+1644500529041	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1644504962793	Marionette	INFO	Stopped listening on port 51758
+[Parent 36944, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+te-debugging-port" "65312" "-no-remote" "-profile" "C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofileMImi3N"
+1644500692508	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofileMImi3N\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65312/devtools/browser/165a5c21-4cac-4335-9706-f356f865d6d4
+1644500695657	Marionette	INFO	Listening on port 65319
+1644500695702	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.amazon.in/Mamaearths-Hairfall-Control-Organic-Vinegar/dp/B07RXKVVRD line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1644504962419	Marionette	INFO	Stopped listening on port 65319
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "65384" "-no-remote" "-profile" "C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofileWyYcMF"
+1644500701998	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofileWyYcMF\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65384/devtools/browser/bbd83d2a-ee92-4a1a-9d24-e5a2d0a3c5cf
+1644500704626	Marionette	INFO	Listening on port 65464
+1644500704759	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1644504964300	Marionette	INFO	Stopped listening on port 65464
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "49259" "-no-remote" "-profile" "C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofileBHVmXJ"
+1644500795935	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofileBHVmXJ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49259/devtools/browser/9dd638f6-72a3-4680-aaaa-aee88b40bb99
+1644500799049	Marionette	INFO	Listening on port 49268
+1644500799101	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.amazon.in/Mamaearths-Hairfall-Control-Organic-Vinegar/dp/B07RXKVVRD line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1644504963335	Marionette	INFO	Stopped listening on port 49268
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 11740, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+500806188	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofilewS7OsG\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49336/devtools/browser/b0563a20-2c27-494b-8626-39240398802f
+1644500808559	Marionette	INFO	Listening on port 49407
+1644500808815	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1644504962838	Marionette	INFO	Stopped listening on port 49407
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 33084, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+501403721	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofileK0m8jL\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64008/devtools/browser/ea9039fa-14a5-4c4a-9638-be27d0d66f66
+1644501406815	Marionette	INFO	Listening on port 64015
+1644501406939	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.amazon.in/Mamaearths-Hairfall-Control-Organic-Vinegar/dp/B07RXKVVRD line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1644504963518	Marionette	INFO	Stopped listening on port 64015
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+AppData\\Local\\Temp\\rust_mozprofile2zgnO5\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64095/devtools/browser/d12ebeb8-3c3c-4da3-9495-35b46b7c6451
+1644501416672	Marionette	INFO	Listening on port 64173
+1644501416699	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1644504963455	Marionette	INFO	Stopped listening on port 64173
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+/devtools/browser/2149f780-f139-4c2d-8bbc-108cbb3017d3
+1644501550925	Marionette	INFO	Listening on port 64319
+1644501551284	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.amazon.in/Mamaearths-Hairfal1644501558290	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64394" "-no-remote" "1644504962707	Marionette	INFO	Stopped listening on port 64319
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel closing: too late to send/recv, messages will be lost
+
+44502097289	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.amazon.in/Mamaearths-Hairfall-Control-Organic-Vinegar/dp/B07RXKVVRD line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1644504962501	Marionette	INFO	Stopped listening on port 64825
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+[Parent 12476, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+ be ignored for this session
+JavaScript warning: https://www.amazon.in/Mamaearths-Hairfall-Control-Organic-Vinegar/dp/B07RXKVVRD line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1644504962729	Marionette	INFO	Stopped listening on port 64922
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 6316, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+4502138305	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofileBFQ1rT\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64988/devtools/browser/2b85bd9e-61e8-492d-8c0d-d4a654730150
+1644502140970	Marionette	INFO	Listening on port 65063
+1644502141047	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1644504963341	Marionette	INFO	Stopped listening on port 65063
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel closing: too late to send/recv, messages will be lost
+
+d
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofilekIcva1\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65209/devtools/browser/913a62ab-081e-487e-9dff-3b0e728971f4
+1644502199367	Marionette	INFO	Listening on port 65217
+1644502199452	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.amazon.in/Mamaearths-Hairfall-Control-Organic-Vinegar/dp/B07RXKVVRD line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1644504953121	Marionette	INFO	Stopped listening on port 65217
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "65289" "-no-remote" "-profile" "C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofileSuyTwC"
+1644502205899	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofileSuyTwC\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65289/devtools/browser/739e2f57-f104-4f55-b6d4-62dddb39c451
+1644502208914	Marionette	INFO	Listening on port 65371
+1644502209144	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1611: Error: permitUnload is already running for this tab.
+1644504944966	Marionette	INFO	Stopped listening on port 65371
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofilez0xs9f\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49376/devtools/browser/efd1969d-5ee1-4f5b-a819-0706f9357e80
+1644502484608	Marionette	INFO	Listening on port 49385
+1644502484650	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.amazon.in/Mamaearths-Hairfall-Control-Organic-Vinegar/dp/B07RXKVVRD line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1611: Error: permitUnload is already running for this tab.
+1644504944652	Marionette	INFO	Stopped listening on port 49385
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofileqTNwNJ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49465/devtools/browser/b4d30fe3-9ebd-4163-9c0f-70aec2eb97d2
+1644502493979	Marionette	INFO	Listening on port 49551
+1644502494032	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1611: Error: permitUnload is already running for this tab.
+1644504944343	Marionette	INFO	Stopped listening on port 49551
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofileaBnmdM\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60653/devtools/browser/c76dbac3-cbe3-48d3-adaf-89d5ac677d53
+1644504099398	Marionette	INFO	Listening on port 60660
+1644504099843	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.amazon.in/Mamaearths-Hairfall-Control-Organic-Vinegar/dp/B07RXKVVRD line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1644504943321	Marionette	INFO	Stopped listening on port 60660
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1644577101696	geckodriver	INFO	Listening on 127.0.0.1:64398
+1644577104779	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64399" "-no-remote" "-profile" "C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofilesxqQVC"
+1644577105654	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofilesxqQVC\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64399/devtools/browser/06b62f4b-8fff-4d43-bff7-06910599950b
+1644577109010	Marionette	INFO	Listening on port 64404
+1644577109087	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.amazon.in/Mamaearths-Hairfall-Control-Organic-Vinegar/dp/B07RXKVVRD line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1644577258067	Marionette	INFO	Stopped listening on port 64404
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "64546" "-no-remote" "-profile" "C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofile1XakNq"
+1644577146013	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofile1XakNq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64546/devtools/browser/ad56cc27-d700-45cb-9771-511c0681fe78
+1644577149071	Marionette	INFO	Listening on port 64551
+1644577149233	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.amazon.in/Mamaearths-Hairfall-Control-Organic-Vinegar/dp/B07RXKVVRD line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1644577257373	Marionette	INFO	Stopped listening on port 64551
+
+###!!! [Child][PContentChild] Error: Send(msgname=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+rionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofileCh9shs\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64627/devtools/browser/bcb79c77-7be4-4fef-bcff-e4996def7ac5
+1644577163038	Marionette	INFO	Listening on port 64703
+1644577163495	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1644577316621	Marionette	INFO	Stopped listening on port 64703
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1645090813546	geckodriver	INFO	Listening on 127.0.0.1:49852
+1645090816592	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49853" "-no-remote" "-profile" "C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofilelS3aiI"
+1645090817228	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofilelS3aiI\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49853/devtools/browser/eea9a61a-7748-4fa3-aee7-7fd730349c5f
+1645090820183	Marionette	INFO	Listening on port 49858
+1645090820289	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1645091579955	Marionette	INFO	Stopped listening on port 49858
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofiletmoGWx\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50113/devtools/browser/b9b09f1f-f218-4fcd-8b09-5ac037c7e4bf
+1645090946087	Marionette	INFO	Listening on port 50118
+1645090946183	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.amazon.in/Dell-Office21-Inspiron-3515-D560702WIN9BE/dp/B09NLRSKV3?ref_=Oct_DLandingS_D_0749af00_60&smid=A14CZOWI0VEHLG line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1645091577899	Marionette	INFO	Stopped listening on port 50118
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofileDzxG4E\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50187/devtools/browser/742a106b-d846-42ef-930d-f816bf023b5d
+1645090961011	Marionette	INFO	Listening on port 50271
+1645090961069	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1645091576750	Marionette	INFO	Stopped listening on port 50271
+1645109942952	geckodriver	INFO	Listening on 127.0.0.1:62967
+1645109946008	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62968" "-no-remote" "-profile" "C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofilecPh3i4"
+1645109946314	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofilecPh3i4\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62968/devtools/browser/99d3207f-036b-4515-bfb0-e0559cc91200
+1645109948273	Marionette	INFO	Listening on port 62975
+1645109948672	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.amazon.in/X10-Gramophone-Bluetooth-Speaker-Rotating/dp/B08R7PTWQ2/?_encoding=UTF8&pd_rd_w=Zq1WL&pf_rd_p=a2fca3f4-3438-4947-894a-24ae26200110&pf_rd_r=VPYBDDNJE0ZHNR5RY8WB&pd_rd_r=21518e8a-726e-4239-9cd7-2c154095c1cb&pd_rd_wg=kj3ib&ref_=pd_gw_unk&th=1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1645109952589	geckodriver	INFO	Listening on 127.0.0.1:63045
+1645109955652	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63046" "-no-remote" "-profile" "C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofileDnOqwT"
+1645109955904	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofileDnOqwT\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63046/devtools/browser/bd6eb909-2fd9-4435-ac7f-68d313db4b7b
+1645109957715	Marionette	INFO	Listening on port 63124
+1645109957809	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1645110096407	geckodriver	INFO	Listening on 127.0.0.1:63261
+1645110099470	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63262" "-no-remote" "-profile" "C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofilewne0pa"
+1645110099733	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofilewne0pa\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63262/devtools/browser/84f9baea-324d-4a23-bf8a-4686c11b8151
+1645110101597	Marionette	INFO	Listening on port 63267
+1645110101622	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.amazon.in/X10-Gramophone-Bluetooth-Speaker-Rotating/dp/B08R7PTWQ2/?_encoding=UTF8&pd_rd_w=Zq1WL&pf_rd_p=a2fca3f4-3438-4947-894a-24ae26200110&pf_rd_r=VPYBDDNJE0ZHNR5RY8WB&pd_rd_r=21518e8a-726e-4239-9cd7-2c154095c1cb&pd_rd_wg=kj3ib&ref_=pd_gw_unk&th=1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1645110105039	geckodriver	INFO	Listening on 127.0.0.1:63336
+1645110108093	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63337" "-no-remote" "-profile" "C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofilelrr68q"
+1645110108356	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofilelrr68q\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63337/devtools/browser/ed8637df-fee7-41ea-9335-cf915c89798b
+1645110110251	Marionette	INFO	Listening on port 63426
+1645110110748	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1645110211708	geckodriver	INFO	Listening on 127.0.0.1:63581
+1645110214797	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63582" "-no-remote" "-profile" "C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofileeYsrXx"
+1645110215113	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofileeYsrXx\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63582/devtools/browser/14cd0c86-b2ca-44b7-b041-096880737153
+1645110216912	Marionette	INFO	Listening on port 63587
+1645110216943	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.amazon.in/X10-Gramophone-Bluetooth-Speaker-Rotating/dp/B08R7PTWQ2/?_encoding=UTF8&pd_rd_w=Zq1WL&pf_rd_p=a2fca3f4-3438-4947-894a-24ae26200110&pf_rd_r=VPYBDDNJE0ZHNR5RY8WB&pd_rd_r=21518e8a-726e-4239-9cd7-2c154095c1cb&pd_rd_wg=kj3ib&ref_=pd_gw_unk&th=1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1645110220985	geckodriver	INFO	Listening on 127.0.0.1:63661
+1645110224051	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63662" "-no-remote" "-profile" "C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofile9Zmg9P"
+1645110224354	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofile9Zmg9P\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63662/devtools/browser/f1483048-0cee-4296-9d7a-44c11f3ac3f9
+1645110226170	Marionette	INFO	Listening on port 63742
+1645110226228	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-assets-web.flixcart.com/px/gNtTli3A/init.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
