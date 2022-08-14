@@ -23,11 +23,10 @@ def flipkartscrape(flip_link):
     driver = webdriver.Firefox()
     driver.get(flip_link)
     flipkart_product = driver.find_element_by_class_name("B_NuCI").get_attribute("innerText")
-
     # flipkart_element = WebDriverWait(driver, 30).until(EC.presence_of_element_located((By.CLASS_NAME, "_30jeq3 _16Jk6d"))) #This is a dummy element
     # print(flipkart_element.__name__)
     flipkart_price = driver.find_element(By.CLASS_NAME, "_16Jk6d").get_attribute("innerText")
     driver.close()
-    #print([flipkart_product,flipkart_price])
+    print([flipkart_product,flipkart_price])
     return [flipkart_product,flipkart_price]
 
