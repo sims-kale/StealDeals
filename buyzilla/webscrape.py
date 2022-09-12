@@ -25,10 +25,10 @@ def amazonscrape(amz_link,driver):
     # time.sleep(0)   # sleep_between_interactions
     amz_product = driver.find_element_by_id("productTitle").get_attribute('innerText')
     amz_price = driver.find_element_by_class_name("a-offscreen").get_attribute("innerText")
-    # amz_img = (WebDriverWait(driver, 5).until(EC.visibility_of_element_located((By.CSS_SELECTOR, "span.a-list-item>span.a-declarative>div.imgTagWrapper>img.a-dynamic-image"))).get_attribute('src'))
+    amz_img = (WebDriverWait(driver, 5).until(EC.visibility_of_element_located((By.CSS_SELECTOR, "span.a-list-item>span.a-declarative>div.imgTagWrapper>img.a-dynamic-image"))).get_attribute('src'))
     # driver.quit()
-    # print([amz_img])
-    return [amz_product, amz_price]
+    print(amz_img)
+    return [amz_product, amz_price, amz_img]
 
 def flipkartscrape(flip_link,driver):
     # c = Options()
@@ -37,10 +37,12 @@ def flipkartscrape(flip_link,driver):
     driver.get(flip_link)
     driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
     flipkart_product = driver.find_element_by_class_name("B_NuCI").get_attribute("innerText")
-    # flipkart_element = WebDriverWait(driver, 30).until(EC.presence_of_element_located((By.CLASS_NAME, "_30jeq3 _16Jk6d"))) #This is a dummy element
-    # print(flipkart_element.__name__)
+    flip_img = (WebDriverWait(driver, 5).until(EC.visibility_of_element_located((By.CSS_SELECTOR, "._2amPTt"))).get_attribute('src'))
+    print(flip_img)
+    # flipkart_element = WebDriverWait(driver, 30).until(EC.presence_of_element_located((By.CLASS_NAME, "CXW8mj _3nMexc"))) 
+    # print(flipkart_element.__name__) this is dummy element
     flipkart_price = driver.find_element(By.CLASS_NAME, "_16Jk6d").get_attribute("innerText")
     driver.quit()
     #print([flipkart_product,flipkart_price])
-    return [flipkart_product,flipkart_price]
+    return [flipkart_product,flipkart_price, flip_img]
 
