@@ -21,5 +21,6 @@ urlpatterns = [
     path('', views.index, name='index'),
     path('home/', views.index, name='index'),
     path('webscrape/', views.webscrape, name='webscrape'),
-    path('home/dashboard/', views.dashboard, name='dashboard'),
+    path('home/dashboard/',views.dashboard,name='dashboard'),
+    
 ]

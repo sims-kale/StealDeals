@@ -4,7 +4,7 @@ from django.shortcuts import render
 from selenium import webdriver
 from django.views.decorators.csrf import csrf_exempt
 from .webscrape import flipkartscrape,amazonscrape
-from .dbhandler import writeIntoDatabase
+from .dbhandler import readIntoDatabase, writeIntoDatabase
 from selenium.webdriver.chrome.options import Options
 
 def index(request):
@@ -21,13 +21,28 @@ def webscrape(request):
         # c.add_argument("--headless")
         c.add_argument("--ignore-certificate-error")
         c.add_argument("--ignore-ssl-errors")
-        driver = webdriver.Chrome(chrome_options = c, executable_path= "C:/chromedriver.exe")
+        c.add_experimental_option('excludeSwitches', ['enable-logging'])
+        driver = webdriver.Chrome(chrome_options = c, executable_path= "C:/drivers/chromedriver.exe")
+    
+
+
+        amz_prodcut = amazonscrape(amz_link, driver)
+        flip_prodcut = flipkartscrape(flip_link, driver)
+        writeIntoDatabase(amz_prodcut ,flip_prodcut )
+        dict={}
+        count =0
+        for row in readIntoDatabase():
+            dict[count] = row
+            count +=1
         
-        amz_prices = amazonscrape(amz_link, driver)
-        flip_prices = flipkartscrape(flip_link, driver)
-        writeIntoDatabase(amz_link,flip_link,amz_prices,flip_prices)
-        return render(request, 'dashboard.html',{"contex": dashboard,  })
+        return render(request, 'dashboard.html' , {"contex": dict })
     # return HttpResponse("<em>Your product is added for tracking</em>")
 def dashboard(request):
-    return render (request, 'dashboard.html')
-    
+    dict={}
+    counter =0
+    for row in readIntoDatabase():
+        dict[counter]=row
+        counter+=1
+     
+    return render(request, 'dashboard.html',{"contex": dict})
+       
