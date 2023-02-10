@@ -4110,3 +4110,109 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 DevTools listening on ws://localhost:51054/devtools/browser/5a42b3f2-038d-4d53-bf1e-37680864c136
 JavaScript warning: https://www.amazon.com/addlon-Commercial-Weatherproof-Heavy-Duty-Decorative/dp/B07CKRM6M8?ref_=Oct_DLandingS_D_1edb961a_60&smid=AT8CYCW02ZHL2 line 10134 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
 1662655639697	Marionette	INFO	Stopped listening on port 51059
+1675852417045	geckodriver	INFO	Listening on 127.0.0.1:56711
+1675852420093	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56712" "-no-remote" "-profile" "C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofileDUgYCd"
+1675852420442	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675852420448	Marionette	INFO	Listening on port 56718
+WebDriver BiDi listening on ws://127.0.0.1:56712
+1675852420744	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofileDUgYCd\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56712/devtools/browser/f259c351-64b6-4bb6-ac34-9a926c673cb1
+1675852446129	Marionette	INFO	Stopped listening on port 56718
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+736" "-no-remote" "-profile" "C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofileAiJC0l"
+*** You are running in headless mode.
+1675852425880	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675852425885	Marionette	INFO	Listening on port 56758
+WebDriver BiDi listening on ws://127.0.0.1:56736
+1675852426261	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofileAiJC0l\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56736/devtools/browser/53df48b4-ce3c-4aba-be85-661586e126f8
+JavaScript warning: https://www.amazon.in/ASUS-17-3-inch-RTX-3050-Ti-Graphics-G713IE-HX040W/dp/B0B3DQ36P7?ref_=Oct_DLandingS_D_66dc9eef_61 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1675853327901	geckodriver	INFO	Listening on 127.0.0.1:57044
+1675853330972	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57045" "-no-remote" "-profile" "C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofilesxfWTJ"
+1675853331302	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675853331307	Marionette	INFO	Listening on port 57052
+WebDriver BiDi listening on ws://127.0.0.1:57045
+1675853331638	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofilesxfWTJ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57045/devtools/browser/5ba8a71c-43ef-44f4-a9f7-ad0b74c64ee4
+JavaScript warning: https://www.amazon.in/ASUS-17-3-inch-RTX-3050-Ti-Graphics-G713IE-HX040W/dp/B0B3DQ36P7?ref_=Oct_DLandingS_D_66dc9eef_61 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 510))
+1675853793434	Marionette	INFO	Stopped listening on port 57052
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+ote" "-profile" "C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofilejWrpvn"
+1675853478700	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675853478705	Marionette	INFO	Listening on port 57235
+WebDriver BiDi listening on ws://127.0.0.1:57229
+1675853478867	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofilejWrpvn\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57229/devtools/browser/ebab7fc7-f735-4c5f-9df2-602c4131fc34
+1675853795081	Marionette	INFO	Stopped listening on port 57235
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+251" "-no-remote" "-profile" "C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofileye288G"
+*** You are running in headless mode.
+1675853483910	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675853483915	Marionette	INFO	Listening on port 57272
+WebDriver BiDi listening on ws://127.0.0.1:57251
+1675853484135	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofileye288G\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57251/devtools/browser/3e6da42d-b084-4215-b110-721c31a57025
+JavaScript warning: https://www.amazon.in/ASUS-17-3-inch-RTX-3050-Ti-Graphics-G713IE-HX040W/dp/B0B3DQ36P7?ref_=Oct_DLandingS_D_66dc9eef_61 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1675853775158	geckodriver	INFO	Listening on 127.0.0.1:57506
+1675853778219	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57507" "-no-remote" "-profile" "C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofilekUAKCu"
+1675853778640	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675853778645	Marionette	INFO	Listening on port 57513
+WebDriver BiDi listening on ws://127.0.0.1:57507
+1675853778816	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofilekUAKCu\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57507/devtools/browser/81bae071-8739-4b02-bda1-9ae5ed88935a
+JavaScript warning: https://www.amazon.in/ASUS-17-3-inch-RTX-3050-Ti-Graphics-G713IE-HX040W/dp/B0B3DQ36P7?ref_=Oct_DLandingS_D_66dc9eef_61 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1675853796791	Marionette	INFO	Stopped listening on port 57513
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1675853865847	geckodriver	INFO	Listening on 127.0.0.1:57684
+1675853868903	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57685" "-no-remote" "-profile" "C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofilepRKAfu"
+1675853869281	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675853869285	Marionette	INFO	Listening on port 57691
+WebDriver BiDi listening on ws://127.0.0.1:57685
+1675853869555	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofilepRKAfu\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57685/devtools/browser/65160554-bbf3-4cae-9bd5-c9eacc00f376
+JavaScript warning: https://www.amazon.in/ASUS-17-3-inch-RTX-3050-Ti-Graphics-G713IE-HX040W/dp/B0B3DQ36P7?ref_=Oct_DLandingS_D_66dc9eef_61 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1675854246064	Marionette	INFO	Stopped listening on port 57691
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1675854351738	geckodriver	INFO	Listening on 127.0.0.1:58116
+1675854354799	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58117" "-no-remote" "-profile" "C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofileEoLyxO"
+1675854355097	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675854355102	Marionette	INFO	Listening on port 58123
+WebDriver BiDi listening on ws://127.0.0.1:58117
+1675854355390	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofileEoLyxO\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58117/devtools/browser/a2e4e5c4-cd47-456c-8ac3-15bba00a2047
+1675854659643	Marionette	INFO	Stopped listening on port 58123
+Dynamically enable window occlusion 1
+[Parent 23092, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:777
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+ically enable window occlusion 0
+1675854360286	Marionette	INFO	Listening on port 58161
+WebDriver BiDi listening on ws://127.0.0.1:58139
+1675854360504	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\simsk\\AppData\\Local\\Temp\\rust_mozprofilepfjmO3\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58139/devtools/browser/2271c6d0-b983-4a4c-9767-b1973bca063b
+JavaScript warning: https://www.amazon.in/ASUS-17-3-inch-RTX-3050-Ti-Graphics-G713IE-HX040W/dp/B0B3DQ36P7?ref_=Oct_DLandingS_D_66dc9eef_61 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
