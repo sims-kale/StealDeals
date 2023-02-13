@@ -5,13 +5,18 @@ from selenium import webdriver
 from django.views.decorators.csrf import csrf_exempt
 from .webscrape import flipkartscrape,amazonscrape
 from .dbhandler import readIntoDatabase, writeIntoDatabase
+import schedule
+import time
+
 from selenium.webdriver.chrome.options import Options
 
 def index(request):
     return render(request,'index.html')
 
+
 @csrf_exempt 
 def webscrape(request):
+  
 
     
     if request.method == 'POST':
@@ -36,7 +41,9 @@ def webscrape(request):
             count +=1
         
         return render(request, 'dashboard.html' , {"contex": dict })
-    # return HttpResponse("<em>Your product is added for tracking</em>")
+    
+   
+    
 def dashboard(request):
     dict={}
     counter =0
@@ -45,4 +52,7 @@ def dashboard(request):
         counter+=1
      
     return render(request, 'dashboard.html',{"contex": dict})
-       
+
+
+
+

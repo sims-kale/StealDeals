@@ -5,7 +5,8 @@ import pprint
 def writeIntoDatabase( aproduct, fproduct):
     client = MongoClient('localhost', 27017)
     buyzilla = client.buyzilla
-    print("Connection Successfully")
+    # 
+    # print("Connection Successfully")
 
     buyzilla.products.insert_one(
         {
@@ -14,10 +15,7 @@ def writeIntoDatabase( aproduct, fproduct):
             
             
         })
-    print("Inserted successfully")
-    # pprint.pprint(buyzilla.products.find())
-   
-    # print(fproduct[4])
+    # print("Inserted successfully")
     # readIntoDatabase()
 
 
